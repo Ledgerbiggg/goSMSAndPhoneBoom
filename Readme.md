@@ -11,7 +11,7 @@ Phone: xxx
 # 线程数量
 ThreadCount: 3
 # 执行时机(默认60秒一次)
-ExecutionCron: "*/6 * * * * *"
+ExecutionCron: "*/60 * * * * *"
 ```
 
 

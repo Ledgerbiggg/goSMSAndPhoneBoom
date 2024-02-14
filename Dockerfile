@@ -4,10 +4,11 @@ FROM alpine AS prod
 # 拷贝执行文件
 COPY main /main
 # 拷贝配置文件
-COPY config.yml ./config.yml
-COPY api.json ./api.json
-COPY GETAPI.json ./GETAPI.json
+COPY ./json/config.yml ./config.yml
+COPY ./json/api.json ./api.json
+COPY ./json/GETAPI.json ./GETAPI.json
 COPY log.txt ./log.txt
+COPY ./json/phoneApi.json ./phoneApi.json
 
 # 添加执行权限
 RUN chmod +x /main

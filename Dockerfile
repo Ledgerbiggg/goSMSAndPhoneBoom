@@ -4,7 +4,7 @@ FROM alpine AS prod
 # 拷贝执行文件
 COPY main /main
 # 拷贝配置文件
-COPY ./json/config.yml ./config.yml
+COPY ./config.yml ./config.yml
 COPY ./json/api.json ./api.json
 COPY ./json/GETAPI.json ./GETAPI.json
 COPY log.txt ./log.txt

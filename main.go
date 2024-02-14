@@ -2,6 +2,7 @@ package main
 
 import (
 	"encoding/json"
+	"goSMSBoom/attack"
 	"goSMSBoom/config"
 	"goSMSBoom/job"
 	"goSMSBoom/log"
@@ -22,8 +23,14 @@ func init() {
 
 func main() {
 	log.Println("开始攻击")
+	// 启动非定时
+	attack.StartBoom()
+	// 启动定时
 	err := job.AttackJob()
-	log.Println("定时器启动失败", err)
+	if err != nil {
+		log.Println("定时器启动失败", err)
+		return
+	}
 	interrupt := make(chan os.Signal, 1)
 	signal.Notify(interrupt, os.Interrupt, syscall.SIGTERM)
 	select {

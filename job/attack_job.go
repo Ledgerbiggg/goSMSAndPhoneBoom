@@ -11,16 +11,9 @@ func AttackJob() error {
 	// 创建一个新的 cron 实例
 	c := NewWithSeconds()
 
-	// 准备
-	err := attack.Start()
-	if err != nil {
-		log.Println("配置文件加载失败")
-		return err
-	}
-
-	_, err = c.AddFunc(config.Configs.ExecutionCron, func() {
+	_, err := c.AddFunc(config.Configs.ExecutionCron, func() {
 		for i := 0; i < config.Configs.ThreadCount; i++ {
-			err = attack.StartBoom()
+			err := attack.StartBoomJob()
 			if err != nil {
 				panic("启动失败")
 			}

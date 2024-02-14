@@ -21,6 +21,8 @@ type PhoneBoom struct {
 	Phone         string `yaml:"Phone"`
 	ThreadCount   int    `yaml:"ThreadCount"`
 	ExecutionCron string `yaml:"ExecutionCron"`
+	Content       string `yaml:"Content"`
+	SSID          string `yaml:"SSID"`
 }
 
 // LoadConfig viper读取yaml

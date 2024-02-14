@@ -1,0 +1,1 @@
+docker run --name sms -v /root/sms/config.yml:/config.yml -v /root/sms/log.txt:/log.txt -d sms

@@ -1,0 +1,1 @@
+docker logs --tail 30 sms

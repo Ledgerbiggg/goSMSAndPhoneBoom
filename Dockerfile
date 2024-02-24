@@ -4,9 +4,8 @@ FROM alpine AS prod
 # 拷贝执行文件
 COPY main /main
 # 拷贝配置文件
-COPY config.yml ./config.yml
-COPY api.json ./api.json
-COPY GETAPI.json ./GETAPI.json
+COPY ./config.yml ./config.yml
+COPY ./json/ ./json/
 COPY log.txt ./log.txt
 
 # 添加执行权限

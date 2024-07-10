@@ -33,7 +33,7 @@ Content: "我的电话号码是xxx,微信也是xxx,我现在有很严重的肾�
 3. 筛选send
 4. 获取ssid修改配置文件
 
-![img](https://img2.imgtp.com/2024/02/14/bm1MN4lV.png)
+![img](https://cdn.nlark.com/yuque/0/2024/png/35553992/1720571681215-378adaf2-b4c8-4f1a-bad8-00fbd4e60596.png)
 
 - 重新启动程序
 
